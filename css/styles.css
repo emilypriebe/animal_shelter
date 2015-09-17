@@ -22,11 +22,12 @@ h4 {
   text-align: center;
 }
 
-p {
-  font-style: italic;
-}
-
 .column p {
   color: blue;
   font-weight: bold;
+  font-style: normal;
+}
+
+p {
+  font-style: italic;
 }
